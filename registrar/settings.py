@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-kvl$cg_h3g9c0zu(#e=))qihk+gevprx22n4ld7074go@9w+k)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['plagio.azurewebsites.net','http://127.0.0.1:8000/']
 
 
 # Application definition
